@@ -1,9 +1,10 @@
 BEGIN:VCARD
 VERSION:3.0
-FN:Wakil Muzeyen
-N:Muzeyen;Wakil;;;
-ORG:FlexPoint Services
-TEL;TYPE=WORK,VOICE:+1234567890
-EMAIL;TYPE=WORK:contact@flexpointservices.com
-ADR;TYPE=WORK:;;9304 Forest Ln, #140;Dallas;TX;75243;USA
+FN:Belay Hailu
+N:Hailu;Belay;;;
+ORG:Naf InfoSolutions
+TEL;TYPE=WORK,VOICE:+14698777106
+EMAIL;TYPE=WORK:Consultations@nafinfosolutions.com
+ADR;TYPE=WORK:;;Remote;
+URL;https://www.nafinfosolutions.com
 END:VCARD
